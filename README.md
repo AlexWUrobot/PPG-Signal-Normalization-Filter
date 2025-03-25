@@ -34,7 +34,7 @@ Photoplethysmography (PPG) is a non-invasive technique to detect blood volume ch
 
 Below is an example plot showing the original and normalized PPG signal over time.
 
-![Normalized PPG Signal](tracking theta 1.png)
+![Normalized PPG Signal](normalized_ppg_plot.png)
 
 ## Code Explanation
 
